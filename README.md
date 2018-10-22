@@ -48,7 +48,7 @@ Here you could make notes about how others might contribute to your code. For ri
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+Rebecca
 
 ## License
 
