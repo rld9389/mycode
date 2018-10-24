@@ -13,6 +13,14 @@ if hostnameinput == "mtg" or "MTG" or "mTG" or "MTg" or "mTg" or "MtG":
 #	hostnameinput == True
 	print("hostname matches expected config")
 #prints if true
+
+elif hostnameinput: # if any data is provided, this will test true
+   print('Looks like the IP address was set') # indented under if
+
+else: # if data is NOT provided
+   print('You did not provide input.') # indented under else
+
+
 #elif hostnameinput != "mtg" or "MTG" or "mTG" or "MTg" or "mTg" or "MtG":
 #	print(hostnameinput)
 #	exit()
